@@ -1,0 +1,56 @@
+.GAME {
+  text-align: center;
+}
+.start{
+  display: inline-block;
+  margin-right: 10px;
+}
+.select{
+  display: inline-block;
+}
+#main{
+  margin:0 auto;
+
+}
+#up{
+  display:block;
+  margin:0 auto
+}
+#game{
+  display:block
+}
+#board{
+  margin:0 auto
+}
+#MessageBox{
+  text-align: center;
+  display: none;
+  margin:20px;
+}
+button {
+  border: none;
+  border-radius: 15px;
+  cursor :pointer;
+  background-color: rgb(166, 218, 245);
+  margin: 10px;
+  height: 30px;
+  width: 100px;
+}
+.box {
+  width: 60px;
+  height: 60px;
+  background-color: purple;
+  margin: 1px;
+  float: left;
+}
+#root{
+  text-align: center;
+}
+body {
+  background-color: rgb(229, 205, 252)
+}
+img {
+  width: 60px;
+  height: 60px;
+  background-color: purple;
+}
